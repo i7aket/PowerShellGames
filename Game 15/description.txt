@@ -1,0 +1,1 @@
+Slide numbered tiles to arrange them in ascending order. Solve the puzzle as quickly as you can!
